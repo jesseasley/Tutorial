@@ -1,0 +1,6 @@
+C:\Users\user\Google Drive\Personal Docs\My Documents\Visual Studio 2013\Projects\Learning App\Learning App\bin\Learning App.dll.config
+C:\Users\user\Google Drive\Personal Docs\My Documents\Visual Studio 2013\Projects\Learning App\Learning App\bin\Learning App.dll
+C:\Users\user\Google Drive\Personal Docs\My Documents\Visual Studio 2013\Projects\Learning App\Learning App\bin\Learning App.pdb
+C:\Users\user\Google Drive\Personal Docs\My Documents\Visual Studio 2013\Projects\Learning App\Learning App\obj\Debug\Learning App.csprojResolveAssemblyReference.cache
+C:\Users\user\Google Drive\Personal Docs\My Documents\Visual Studio 2013\Projects\Learning App\Learning App\obj\Debug\Learning App.dll
+C:\Users\user\Google Drive\Personal Docs\My Documents\Visual Studio 2013\Projects\Learning App\Learning App\obj\Debug\Learning App.pdb
